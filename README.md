@@ -1,6 +1,7 @@
-<center><h1>Hi there 👋, I'm Seulgi Kim<h1></center>
+<h2 align="center">Hi there 👋, I'm Seulgi Kim</h2>
 
-## 🔨 Technical Skills
+
+### 🔨 Technical Skills
 
 <img src="/image/logo_kotlin.png" width="60px"> <img src="/image/logo_java.png" width="60px"> <img src="/image/logo_c++.png" width="60px">
 <img src="/image/logo_c.png" width="60px"> <img src="/image/logo_android.png" width="60px"> <img src="/image/logo_mysql.png" width="60px"> <img src="/image/logo_git.png" width="60px"> <img src="/image/logo_notion.png" width="60px"> <img src="/image/logo_photoshop.png" width="60px"> <img src="/image/logo_premiere.png" width="60px">
@@ -10,7 +11,7 @@
 
 <br>
 
-## 🙋 Activities
+### 🙋 Activities
 
 - `2020.09 ~ present` : [AICT](https://aict.snu.ac.kr/) Wearable Healthcare Lab Intern
 - `2020.09 ~ present` : [SOPT](http://sopt.org/wp/)
@@ -20,7 +21,7 @@
 
 <br>
 
-## 🏆 Project with keyword
+### 🏆 Project with keyword
 
 - **[🖤 MonoPad](https://github.com/team-MonoPad/MonoPad)**  (2020.09 ~ 2020.11) : Kotlin, Android, Git-Flow, MVVM, AAC, DI, TMDB API, Notion, <a href="https://play.google.com/store/apps/details?id=com.project.monopad" target="_blank"><img src="/image/logo_play_store.png" width="20px" /></a>
 - **[❤️ WearWeather](https://github.com/WearWeather/WearWeather_Android)** (2020.07 ~ 2020.09) : Java, Android, Git, Trello, OpenWeatherMap API, VWorld API, <a href="https://play.google.com/store/apps/details?id=com.wearweatherapp" target="_blank"><img src="/image/logo_play_store.png" width="20px" /></a>
@@ -34,7 +35,7 @@
 
 <br>
 
-## 💥 Now,
+### 💥 Now,
 
 - 🏢 I’m currently working on **[SOPT](http://sopt.org/wp/)**, **[AICT](https://aict.snu.ac.kr/)** Wearable Healthcare Lab Intern.
 - 🌱 I’m currently learning **[Android](https://github.com/4z7l/Android_Kotlin_Practice)**, **[Algorithms](https://github.com/4z7l/CPP_Algorithms.git)**, and **[etc.](https://github.com/4z7l/Today-I-Learned.git)**
@@ -46,7 +47,7 @@
 
 <br><br>
 
-<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=4z7l" width="70%"/></center>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4z7l" width="50%"/></p>
 
 
 
