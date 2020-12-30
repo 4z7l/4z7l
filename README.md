@@ -4,7 +4,9 @@
 ### 🔨 Technical Skills
 
 <img src="/image/logo_kotlin.png" width="60px"> <img src="/image/logo_java.png" width="60px"> <img src="/image/logo_c++.png" width="60px">
-<img src="/image/logo_c.png" width="60px"> <img src="/image/logo_android.png" width="60px"> <img src="/image/logo_mysql.png" width="60px"> <img src="/image/logo_git.png" width="60px"> <img src="/image/logo_notion.png" width="60px"> <img src="/image/logo_photoshop.png" width="60px"> <img src="/image/logo_premiere.png" width="60px">
+<img src="/image/logo_c.png" width="60px"> <img src="/image/logo_android.png" width="60px"> <img src="/image/logo_mysql.png" width="60px"> <img src="/image/logo_git.png" width="60px"> <img src="/image/logo_notion.png" width="60px">
+
+<!--<img src="/image/logo_photoshop.png" width="60px"> <img src="/image/logo_premiere.png" width="60px">-->
 
 > ✏️ **Have Learned** :
 <img src="/image/logo_html.png" width="50px"> <img src="/image/logo_css.png" width="50px"> <img src="/image/logo_js.png" width="50px"> <img src="/image/logo_python.png" width="40px"> <img src="/image/logo_c_sharp.png" width="50px">
@@ -13,7 +15,7 @@
 
 ### 🙋 Activities
 
-- `2020.09 ~ present` : [AICT](https://aict.snu.ac.kr/) Wearable Healthcare Lab Intern
+- `2020.10 ~ 2020.12` : [AICT](https://aict.snu.ac.kr/) Wearable Healthcare Lab Intern
 - `2020.09 ~ present` : [SOPT](http://sopt.org/wp/)
 - `2019.09 ~ 2020.02` : [Mash-Up](https://github.com/mash-up-kr)
 - `2019.01 ~ 2019.02` : Short-term training in San Diego, USA
@@ -37,7 +39,7 @@
 
 ### 💥 Now,
 
-- 🏢 I’m currently working on **[SOPT](http://sopt.org/wp/)**, **[AICT](https://aict.snu.ac.kr/)** Wearable Healthcare Lab Intern.
+- 🏢 I’m currently working on **[SOPT](http://sopt.org/wp/)**.
 - 🌱 I’m currently learning **[Android](https://github.com/4z7l/Android_Kotlin_Practice)**, **[Algorithms](https://github.com/4z7l/CPP_Algorithms.git)**, and **[etc.](https://github.com/4z7l/Today-I-Learned.git)**
 - 👯 I’m looking for collaboration with **Designer** and **Backend developer**. Contact Me!
 - 🏃 I'm trying to **1 Day 1 Commit**.
@@ -49,8 +51,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4z7l" width="50%"/></p>
 
-
-
+<br>
 
 
 
